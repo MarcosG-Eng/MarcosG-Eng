@@ -35,7 +35,6 @@ I'm passionate about electronics, embedded systems, and FPGA development. I enjo
 ---
 
 ### 📚 Currently Exploring
-[![Learning](https://skillicons.dev/icons?i=vhdl,vscode,bash)](https://skillicons.dev)
 
 - **SystemVerilog for Verification**: Developing testbenches for functional simulation and validation  
 - **AXI Protocols**: Integration and debugging of AXI4, AXI-Lite, and AXI-Stream interfaces in SoC designs  
