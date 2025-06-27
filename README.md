@@ -42,6 +42,7 @@ I'm passionate about electronics, embedded systems, and FPGA development. I enjo
 - **Tcl Scripting**: Design automation and build flow optimization in Vivado  
 ---
 
+
 ### 📈 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MarcosG-Eng&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats"/>
