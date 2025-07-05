@@ -45,7 +45,6 @@ I'm passionate about electronics, embedded systems, and FPGA development. I enjo
 
 ### 📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcosG-Eng&show_icons=true&theme=blue-green&hide_border=true" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosG-Eng&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages"/>
 </div>
 
