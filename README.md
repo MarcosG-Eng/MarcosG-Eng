@@ -12,23 +12,23 @@
 
 ### 🚀 About Me
 
-I'm passionate about electronics, embedded systems, and FPGA development. I enjoy building efficient hardware-software solutions using MPSoC, RFSoC, and real-time Linux environments. My goal is to bridge the digital gap between high-performance logic and reliable embedded software.
+I'm passionate about electronics, embedded systems, and FPGA development, with a strong focus on RTL design and hardware acceleration. I enjoy creating efficient hardware-software co-design solutions using MPSoC and RFSoC platforms. My goal is to bridge the digital gap between high-performance logic and reliable embedded software.
 
 ---
 
 ### 🛠️ Core Technologies & Tools
 
 #### 🧠 Languages & Environments
-- **VHDL**, **C/C++**, **Python**, **Structured Text**
+- **VHDL**, **C/C++**, **Python**
 - **Linux** (PetaLinux, Embedded), **Real-Time Processing**
 
 #### 🔧 FPGA & Embedded Tools
 - Vivado, Vitis, Quartus Prime
-- Hardware Platforms: Zynq, MPSoC, RFSoC
+- Platforms: Zynq 7000,Zynq UltraScale+ (MPSoC, RFSoC)
 - Tcl scripting for automation and testing
 
 #### 🧰 Toolchain & Workflow
-- Git, GitHub, Make, Bash scripting
+- Git, GitHub
 - Hardware validation and signal processing
 - System-level integration and embedded debugging
 
